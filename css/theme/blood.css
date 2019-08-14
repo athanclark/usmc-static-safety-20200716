@@ -295,3 +295,8 @@ body {
 
 .reveal small code {
   vertical-align: baseline; }
+
+.present {
+    background-color: rgba(0,0,0,0.4);
+    border-radius: 0.5em;
+}
